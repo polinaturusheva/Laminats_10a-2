@@ -1,0 +1,2 @@
+# Laminat
+tikai funkcija
